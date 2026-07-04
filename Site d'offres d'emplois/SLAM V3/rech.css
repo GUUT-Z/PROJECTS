@@ -1,0 +1,68 @@
+        /* Conteneur principal des résultats */
+.container-recherche {
+    max-width: 1000px;
+    margin: 30px auto;
+    padding: 0 20px;
+}
+
+.resultat-info {
+    margin-bottom: 20px;
+    font-style: italic;
+    color: #666;
+}
+
+/* Style de chaque bloc de résultat */
+.resultat-item {
+    background: #fff;
+    border-left: 5px solid var(--primary-color);
+    margin-bottom: 20px;
+    padding: 20px;
+    border-radius: 0 8px 8px 0;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.1);
+    transition: transform 0.2s;
+}
+
+.resultat-item:hover {
+    transform: translateX(5px);
+}
+
+/* Badge pour différencier Entreprise et Contenu */
+.badge {
+    display: inline-block;
+    padding: 4px 10px;
+    border-radius: 20px;
+    font-size: 0.8rem;
+    font-weight: bold;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+.badge-entreprise {
+    background-color: #e3f2fd;
+    color: #1976d2;
+}
+
+.badge-contenu {
+    background-color: #f3e5f5;
+    color: var(--primary-color);
+}
+
+/* Typographie des résultats */
+.resultat-item h3 {
+    margin: 0 0 10px 0;
+    color: #333;
+}
+
+.resultat-item p {
+    margin: 5px 0;
+    color: #555;
+    line-height: 1.5;
+}
+
+.resultat-item .metadonnees {
+    font-size: 0.85rem;
+    color: #888;
+    margin-top: 10px;
+    border-top: 1px solid #eee;
+    padding-top: 10px;
+}

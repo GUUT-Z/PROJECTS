@@ -1,0 +1,62 @@
+
+.resultats {
+    max-width: 1000px;
+    margin: 40px auto;
+    padding: 40px;
+    background: white;
+    border-radius: 20px;
+    box-shadow: 0 20px 60px rgba(0, 0, 0, 0.3);
+}
+
+.table-entreprises {
+    width: 100%;
+    border-collapse: collapse;
+    border-radius: 10px;
+}
+
+.table-entreprises th {
+    padding: 18px 15px;
+    text-align: left;
+    font-weight: 600;
+    font-size: 14px;
+    text-transform: uppercase;
+    letter-spacing: 0.5px;
+}
+
+.table-entreprises td {
+    padding: 18px 15px;
+    border-bottom: 1px solid #f0f0f0;
+    color: #333;
+    font-size: 14px;
+}
+
+
+.table-entreprises a {
+    color: #667eea;
+    text-decoration: none;
+    transition: color 0.3s ease;
+}
+
+.FR {
+    margin-top: 50px;
+    margin-left: 20px;
+    align-items: center;
+    display:flex;
+    background: #f8f8f8;
+    border-radius:30px;
+    max-width: 800px;
+    max-height: 800px;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
+}
+
+.DOM {
+    margin-top: 50px;
+    margin-left: 20px;
+    align-items: center;
+    display:flex;
+    background: #f8f8f8;
+    border-radius:30px;
+    max-width: 800px;
+    max-height: 800px;
+    box-shadow: 0 20px 30px rgba(0, 0, 0, 0.3);
+}

@@ -1,0 +1,35 @@
+.titre {
+    text-align: center;
+    margin: 40px 0;
+    
+}
+
+.titre h1 {
+    color: #333;
+    font-size: 15px;
+    text-decoration: underline;
+
+}
+
+hr{
+   margin: 20px -30px;        
+   border: none;
+   border-top: 2px solid #c0c4c8;  /* Trait visible */
+}
+
+.container-rgpd ul li {
+   margin-left: 50px;
+}
+
+.container-rgpd .ligne hr{
+    width: 50%;
+    align-items: center;
+}
+
+.container-rgpd h2{
+    margin-left: 45px;
+}
+
+.container-rgpd p{
+    margin-left: 50px;
+}
