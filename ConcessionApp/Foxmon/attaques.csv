@@ -1,0 +1,32 @@
+Nom,Type,Puissance,Precision
+Charge,Feu,40,100
+Griffe,Feu,50,95
+Coup d'Boule,Roche,70,90
+Vive-Attaque,Électrique,40,100
+Tranch'Herbe,Plante,55,95
+Fouet Lianes,Plante,45,100
+Canon Graine,Plante,80,90
+Pistolet à O,Eau,40,100
+Surf,Eau,90,95
+Bulle d'O,Eau,45,100
+Hydrocanon,Eau,110,80
+Flammèche,Feu,50,90
+Crocs Feu,Feu,65,95
+Lance-Flammes,Feu,90,85
+Éruption,Feu,120,75
+Éclair,Électrique,60,100
+Tonnerre,Électrique,90,90
+Fatal-Foudre,Électrique,110,75
+Étincelle,Électrique,65,95
+Séisme,Sol,100,90
+Jet de Sable,Sol,40,100
+Tunnel,Sol,80,95
+Éboulement,Roche,75,90
+Lancer de Roc,Roche,50,95
+Météores,Roche,60,100
+Poudreuse,Glace,40,100
+Laser Glace,Glace,90,90
+Blizzard,Glace,110,75
+Griffe Acier,Métal,70,95
+Tête de Fer,Métal,80,90
+Charge Métallique,Métal,60,100

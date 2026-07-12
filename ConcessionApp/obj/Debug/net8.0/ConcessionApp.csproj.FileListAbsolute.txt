@@ -1,0 +1,14 @@
+C:\Dev\Concessionapp\bin\Debug\net8.0\ConcessionApp.exe
+C:\Dev\Concessionapp\bin\Debug\net8.0\ConcessionApp.deps.json
+C:\Dev\Concessionapp\bin\Debug\net8.0\ConcessionApp.runtimeconfig.json
+C:\Dev\Concessionapp\bin\Debug\net8.0\ConcessionApp.dll
+C:\Dev\Concessionapp\bin\Debug\net8.0\ConcessionApp.pdb
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.AssemblyInfoInputs.cache
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.AssemblyInfo.cs
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.csproj.CoreCompileInputs.cache
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.dll
+C:\Dev\Concessionapp\obj\Debug\net8.0\refint\ConcessionApp.dll
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.pdb
+C:\Dev\Concessionapp\obj\Debug\net8.0\ConcessionApp.genruntimeconfig.cache
+C:\Dev\Concessionapp\obj\Debug\net8.0\ref\ConcessionApp.dll

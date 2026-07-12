@@ -1,0 +1,14 @@
+C:\Users\Wallon\documents\obj\Debug\net10.0\documents.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wallon\documents\obj\Debug\net10.0\documents.AssemblyInfoInputs.cache
+C:\Users\Wallon\documents\obj\Debug\net10.0\documents.AssemblyInfo.cs
+C:\Users\Wallon\documents\obj\Debug\net10.0\documents.csproj.CoreCompileInputs.cache
+C:\Users\Wallon\Documents\bin\Debug\net10.0\documents.exe
+C:\Users\Wallon\Documents\bin\Debug\net10.0\documents.deps.json
+C:\Users\Wallon\Documents\bin\Debug\net10.0\documents.runtimeconfig.json
+C:\Users\Wallon\Documents\bin\Debug\net10.0\documents.dll
+C:\Users\Wallon\Documents\bin\Debug\net10.0\documents.pdb
+C:\Users\Wallon\Documents\obj\Debug\net10.0\documents.dll
+C:\Users\Wallon\Documents\obj\Debug\net10.0\refint\documents.dll
+C:\Users\Wallon\Documents\obj\Debug\net10.0\documents.pdb
+C:\Users\Wallon\Documents\obj\Debug\net10.0\documents.genruntimeconfig.cache
+C:\Users\Wallon\Documents\obj\Debug\net10.0\ref\documents.dll
