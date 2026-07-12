@@ -1,0 +1,142 @@
+body{
+    background-color: #eef2f3;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    justify-content: center;
+}
+
+.formulaire{
+    background-color: white;
+    width: 350px;
+    max-width: 90%;
+    padding: 25px;
+    border-radius: 15px;
+    box-shadow: 0 10px 30px rgba(0,0,0,0.1);
+    text-align: center;
+}
+
+h2{
+    margin-bottom: 20px;
+    color: #333;
+}
+
+input[type="text"],
+input[type="password"]{
+    width: 90%;
+    padding: 8px;
+    margin-top: 8px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+input[type="submit"]{
+    margin-top: 15px;
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: 0.2s;
+}
+
+input[type="submit"]:hover{
+    background-color: #0056b3;
+}
+
+a.inscription{
+    display: inline-block;
+    margin-top: 10px;
+    color: #007bff;
+    text-decoration: none;
+}
+
+a.inscription:hover{
+    text-decoration: underline;
+}
+
+form{
+    text-align: center;
+    margin-top: 20px;
+}
+
+input[name="search"]{
+    width: 200px;
+    padding: 6px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+}
+
+a.deconnecter{
+    text-decoration: none;
+    color: #dc3545;
+    border: 2px solid #dc3545;
+    padding: 6px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+    margin-left: 10px;
+    transition: 0.2s;
+}
+
+a.deconnecter:hover{
+    background: #dc3545;
+    color: white;
+}
+
+body:has(.formulaire){
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+/* Tablette */
+@media (max-width: 768px){
+
+    .formulaire{
+        width: 320px;
+        padding: 20px;
+    }
+
+    h2{
+        font-size: 1.5rem;
+    }
+
+    input[name="search"]{
+        width: 180px;
+    }
+}
+
+/* Téléphone */
+@media (max-width: 480px){
+
+    .formulaire{
+        width: 90%;
+        padding: 15px;
+    }
+
+    h2{
+        font-size: 1.3rem;
+    }
+
+    input[type="text"],
+    input[type="password"]{
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    input[name="search"]{
+        width: 100%;
+        box-sizing: border-box;
+    }
+
+    input[type="submit"]{
+        width: 100%;
+    }
+
+    a.deconnecter{
+        display: inline-block;
+        margin-top: 10px;
+        margin-left: 0;
+    }
+}
